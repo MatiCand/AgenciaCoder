@@ -111,6 +111,11 @@ font-family: 'Acme', sans-serif;
     padding: 0;
   }
 
+  .nav__item-heads  a{
+    font-size: 16px;
+    font-stretch: extra-expanded;
+  }
+
   .header-Container, .header-name, .header-carrera{
     align-items: center;
     display: flex;
@@ -119,7 +124,7 @@ font-family: 'Acme', sans-serif;
   }
 
   .header-Container{
-    background-image: url('../images/AgenciaCoder.jpg');
+    background-image: url('../images/4.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
