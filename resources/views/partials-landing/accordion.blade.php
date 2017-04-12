@@ -40,7 +40,7 @@
                 <br>
                 El servicio incluye:
                 <br>
-                Actualizacion de textos e imágenes <br>
+                Carga de textos e imágenes <br>
                 Optimización de imágenes <br>
                 Diseño integral de la página web <br>
                 Registro de dominio (.com, .net, .org o .info) <br>
@@ -58,7 +58,7 @@
             </div>
             <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
               <div class="panel-body">
-                Por supuesto, luego de publicado, podrás solicitarnos los retoques y actualizaciones que necesites en texto o imagenes (uno por mes)..
+                Por supuesto, luego de publicado, podrás realizar los retoques y actualizaciones que necesites en texto o imagenes tu mismo a traves del panel de admnistración..
               </div>
             </div>
           </div>
@@ -78,7 +78,6 @@
                 <br>
                 <strong>Es importante que sepas que tipos de sitio quedan excluidos del alcance de este servicio:</strong>
                 <ul>
-                  <li>Blogs</li>
                   <li>Periódicos digitales</li>
                   <li>Tienda online</li>
                   <li>Sitios de descarga de videos y música</li>
