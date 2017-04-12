@@ -3,7 +3,7 @@
 <meta name="keywords" content="Agencia, Marketing Digital, seo, sem, redes sociales, adwords, analytics, branding, diseño web, email marketing">
 <meta charset="utf-8">
 <meta name="author" content="Agencia Coder">
-<meta name="google-site-verification" content="vsBNicSGz0gt3omcl210RK4qsl8-L_WWhc8-ynbmWcU" /> 
+<meta name="google-site-verification" content="vsBNicSGz0gt3omcl210RK4qsl8-L_WWhc8-ynbmWcU" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 <!-- Favicons -->
 <link rel="shortcut icon" href="images/favicon.png">
@@ -63,6 +63,9 @@ fbq('init', '1704202639872471', {
 em: 'insert_email_variable,'
 });
 fbq('track', 'PageView');
+fbq('track', 'Lead');
+fbq('track', 'CompleteRegistration');
+fbq('track', 'ViewContent');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=1704202639872471&ev=PageView&noscript=1"

@@ -44,6 +44,9 @@ fbq('init', '1704202639872471', {
 em: 'insert_email_variable,'
 });
 fbq('track', 'PageView');
+fbq('track', 'Lead');
+fbq('track', 'CompleteRegistration');
+fbq('track', 'ViewContent');
 </script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://www.facebook.com/tr?id=1704202639872471&ev=PageView&noscript=1"
