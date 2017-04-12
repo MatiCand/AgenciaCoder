@@ -1,0 +1,57 @@
+.PedirPresupuesto{
+	border: 3px solid #F52549;
+	border-radius: 6px;
+  color: white;
+  padding: 1.5em 3em;;
+  font-weight: bold;
+}
+
+.PedirPresupuesto:hover{
+  background: white;
+  border: 3px solid white;
+  color: black;
+}
+
+.title-section{
+  color: white;
+	padding: 0 0 60px 0 ;
+}
+
+.btn-sus{
+  width: 150px;
+}
+
+.fafa{
+	color: white;
+	padding-left: 16px;
+}
+
+.intro-form{
+	margin-top: -50px;
+}
+
+.home{
+	margin-top: -80px;
+}
+
+.btn-form{
+	background: #F52549 !important;
+  color: white !important;
+  padding: 1.5em 3em;;
+  font-weight: bold !important;
+}
+
+/*.btn-form:hover{
+  padding: 1.5em 3em;
+	background: white !important;
+	border: 3px solid #F52549 !important;
+	color: black !important;
+}*/
+
+.form-title{
+	color: white;	
+}
+
+#contact-form{
+	background: #171A28 !important;
+}
