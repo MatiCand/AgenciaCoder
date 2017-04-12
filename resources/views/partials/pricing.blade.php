@@ -26,7 +26,6 @@
                 <ul class="sf-list pr-list">
                   <li>Página Web</li>
                   <li>Hosting y Dominio <span class="planes">Gratis</span></li>
-                  <li>Chat</li>
                   <li>Seo Básico</li>
                   <li>Newsletter</li>
                   <li>Formulario de contacto</li>

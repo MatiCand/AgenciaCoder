@@ -1,18 +1,23 @@
-<!-- Home Section -->
-<section class="home-section bg-dark-alfa-50" data-background="images/video-placeholder.jpg" id="home">
-    <div class="js-height-full">
 
-        <!-- Video BG Init..........bO4LRzv19_k  |  SdDudrd_828-->
-        <div class="player" data-property="{videoURL:'https://www.youtube.com/watch?v=bO4LRzv19_k',containment:'#home',autoPlay:true, showControls:false, showYTLogo: false, mute:true, loop:true, startAt:20, opacity:1}">
+        <!-- Page Loader -->
+        <div class="page-loader">
+            <b class="spinner">Loading...</b>
         </div>
-         <!-- End Video BG Init -->
+        <!-- End Page Loader -->
 
-        <!-- Home Page Content -->
-        <div class="home-content container">
-            <div class="home-text">
-                <div class="container animate-init" data-anim-type="fade-in-up-big" data-anim-delay="100">
+        <!-- Page Wrap -->
+        <div class="page" id="top">
 
-                    <!-- Headings -->
+            <!-- Home Section -->
+            <section class="home-section bg-dark-alfa-50" data-background="images/video-placeholder.jpg" id="home">
+                <div class="js-height-full">
+
+                    <!-- Home Page Content -->
+                    <div class="home-content container">
+                        <div class="home-text animate-init" data-anim-type="fade-in-up" data-anim-delay="100">
+                            <div class="container">
+
+                                <!-- Headings -->
 
                     <div class="hs-line-8 mb-20">
                         Coder | <strong>Agencia de Marketing Digital</strong>

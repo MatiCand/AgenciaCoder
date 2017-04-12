@@ -18,14 +18,14 @@
 
             <!-- Work Item (Lightbox) -->
             <li class="work-item mix photography branding">
-                <a href="images/portfolio/full-project-1.png" class="work-lightbox-link mfp-image">
+                <a href="images/portfolio/1.png" class="work-lightbox-link mfp-image">
                     <div class="work-img">
-                        <img src="images/portfolio/projects-2.png" alt="Work" />
+                        <img src="images/portfolio/1.png" alt="Work" />
                     </div>
                     <div class="work-intro">
-                        <h3 class="work-title">NoticiaNorte</h3>
+                        <h3 class="work-title">Construcciones Diaz</h3>
                         <div class="work-descr">
-                            El Diario de Vicente López
+                            Empresa de servicios
                         </div>
                     </div>
                 </a>
@@ -34,9 +34,25 @@
 
             <!-- Work Item (Lightbox) -->
             <li class="work-item mix photography branding">
-                <a href="images/portfolio/full-project-2.png" class="work-lightbox-link mfp-image">
+                <a href="images/portfolio/2.png" class="work-lightbox-link mfp-image">
                     <div class="work-img">
-                        <img src="images/portfolio/projects-1.png" alt="Work" />
+                        <img src="images/portfolio/2.png" alt="Work" />
+                    </div>
+                    <div class="work-intro">
+                        <h3 class="work-title">NoticiaNorte</h3>
+                        <div class="work-descr">
+                           El Diario de Vicente López
+                        </div>
+                    </div>
+                </a>
+            </li>
+            <!-- End Work Item -->
+
+            <!-- Work Item (Lightbox) -->
+            <li class="work-item mix photography branding">
+                <a href="images/portfolio/3.png" class="work-lightbox-link mfp-image">
+                    <div class="work-img">
+                        <img src="images/portfolio/3.png" alt="Work" />
                     </div>
                     <div class="work-intro">
                         <h3 class="work-title">La guia de Vicente López</h3>

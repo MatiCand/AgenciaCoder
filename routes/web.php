@@ -19,4 +19,9 @@ Route::get('/planes', function () {
     return view('planes');
 });
 
+Route::get('/paginaweb', function () {
+    return view('paginaweb');
+});
+
 Route::resource('mail','MailController');
+Route::resource('email','MailLandingController');
