@@ -13,11 +13,12 @@
 <!-- CSS -->
 <link rel="stylesheet" href="landing/css/estilos.css">
 <link rel="stylesheet" href="landing/css/bootstrap.min.css">
-<link rel="stylesheet" href="landing/css/icons/fontawesome/css/style.css">
-<link rel="stylesheet" href="landing/css/icons/style.css">
-<link rel="stylesheet" href="landing/css/icons/icon2/style.css">
-<link rel="stylesheet" href="landing/css/style.css">
+<link rel="stylesheet" href="landing/css/icons/fontawesome/css/style.min.css">
+<link rel="stylesheet" href="landing/css/icons/style.min.css">
+<link rel="stylesheet" href="landing/css/icons/icon2/style.min.css">
+<link rel="stylesheet" href="landing/css/style.min.css">
 <link rel="stylesheet" href="landing/css/skin/hot-pink.css">
+
 <link rel="stylesheet" href="landing/js/vendors/swipebox/css/swipebox.min.css">
 <link rel="stylesheet" href="landing/js/vendors/slick/slick.css">
 
@@ -53,3 +54,7 @@ src="https://www.facebook.com/tr?id=1704202639872471&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3074185.js"></script>
+<!-- End of HubSpot Embed Code -->

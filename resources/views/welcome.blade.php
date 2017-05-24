@@ -19,27 +19,27 @@
 
     <!-- Page Wrap -->
     <div class="page" id="top">
-        @include('partials.nav')
-        @include('partials.home')
-        @include('partials.about')
-        @include('partials.process')
-        @include('partials.facts')
-        @include('partials.service')
-        @include('partials.team')
-        @include('partials.features')
-        @include('partials.allservices')
-        @include('partials.resources')
-        @include('partials.portfolio')
-        @include('partials.calltoaction')
-        @include('partials.testimonials')
-        @include('partials.logos')
-        @include('partials.newsletter')
-        @include('partials.contact')
-        @include('partials.maps')
-        @include('partials.footer')
-      </div>
-      <!-- End Page Wrap -->
+      @include('partials.nav')
+      @include('partials.home')
+      @include('partials.about')
+      @include('partials.process')
+      @include('partials.facts')
+      @include('partials.service')
+      @include('partials.team')
+      @include('partials.features')
+      @include('partials.allservices')
+      @include('partials.resources')
+      @include('partials.portfolio')
+      @include('partials.calltoaction')
+      @include('partials.testimonials')
+      @include('partials.logos')
+      @include('partials.newsletter')
+      @include('partials.contact')
+      @include('partials.maps')
+      @include('partials.footer')
+    </div>
+    <!-- End Page Wrap -->
 
-      @include('partials.js')
+    @include('partials.js')
   </body>
 </html>

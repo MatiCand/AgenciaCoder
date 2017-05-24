@@ -13,15 +13,15 @@
 <!-- CSS -->
 <link rel="stylesheet" href="css/estilos.css">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/style-responsive.css">
-<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/style.min.css">
+<link rel="stylesheet" href="css/style-responsive.min.css">
+<link rel="stylesheet" href="css/animate.min.css">
 <link rel="stylesheet" href="css/animations.min.css">
 <link rel="stylesheet" href="css/vertical-rhythm.min.css">
-<link rel="stylesheet" href="css/owl.carousel.css">
-<link rel="stylesheet" href="css/magnific-popup.css">
-<link rel="stylesheet" href="css/YTPlayer.css">
-<link rel="stylesheet" href="css/simpletextrotator.css">
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="css/magnific-popup.min.css">
+<link rel="stylesheet" href="css/YTPlayer.min.css">
+<link rel="stylesheet" href="css/simpletextrotator.min.css">
 
 
 <!-- Color Schemes :: Uncomment one for apply :: -->
@@ -72,3 +72,8 @@ src="https://www.facebook.com/tr?id=1704202639872471&ev=PageView&noscript=1"
 /></noscript>
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
+
+
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3074185.js"></script>
+<!-- End of HubSpot Embed Code -->
