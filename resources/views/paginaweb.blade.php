@@ -20,8 +20,7 @@
 			@include('partials-landing.accordion')
 			@include('partials-landing.cta')
 			@include('partials-landing.contactInfo')
-			@include('partials-landing.contactForm')
-			@include('partials-landing.footer')
+			@include('partials-landing.contactForm') 
 
 			@include('partials-landing.js')
 

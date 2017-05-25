@@ -13,14 +13,18 @@
 <!-- CSS -->
 <link rel="stylesheet" href="landing/css/estilos.css">
 <link rel="stylesheet" href="landing/css/bootstrap.min.css">
-<link rel="stylesheet" href="landing/css/icons/fontawesome/css/style.min.css">
-<link rel="stylesheet" href="landing/css/icons/style.min.css">
-<link rel="stylesheet" href="landing/css/icons/icon2/style.min.css">
-<link rel="stylesheet" href="landing/css/style.min.css">
+
+<link rel="stylesheet" href="landing/css/icons/fontawesome/css/style.css">
+<link rel="stylesheet" href="landing/css/icons/style.css">
+<link rel="stylesheet" href="landing/css/icons/icon2/style.css">
+<link rel="stylesheet" href="landing/js/vendors/swipebox/css/swipebox.css">
+
+<link rel="stylesheet" href="landing/js/vendors/slick/slick.css">
+<link rel="stylesheet" href="landing/css/style.css">
+
 <link rel="stylesheet" href="landing/css/skin/hot-pink.css">
 
-<link rel="stylesheet" href="landing/js/vendors/swipebox/css/swipebox.min.css">
-<link rel="stylesheet" href="landing/js/vendors/slick/slick.css">
+
 
 <!-- Google Analytics -->
 <script>

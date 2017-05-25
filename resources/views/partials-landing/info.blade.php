@@ -15,7 +15,7 @@
           <li><i class="icon-check"></i>MAPA</li>
         </ul>
         <div class="space30"></div>
-        <a href="#contact-form" class="btn btn-lg btn-primary">Contratar Ahora<i class="icon-arrow-right"></i></a>
+        <a href="#contacto" class="btn btn-lg btn-primary">Contratar Ahora<i class="icon-arrow-right"></i></a>
       </div>
 
       <div class="col-md-6 col-md-pull-6 text-center">

@@ -13,15 +13,15 @@
 <!-- CSS -->
 <link rel="stylesheet" href="css/estilos.css">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.min.css">
-<link rel="stylesheet" href="css/style-responsive.min.css">
-<link rel="stylesheet" href="css/animate.min.css">
-<link rel="stylesheet" href="css/animations.min.css">
-<link rel="stylesheet" href="css/vertical-rhythm.min.css">
-<link rel="stylesheet" href="css/owl.carousel.min.css">
-<link rel="stylesheet" href="css/magnific-popup.min.css">
-<link rel="stylesheet" href="css/YTPlayer.min.css">
-<link rel="stylesheet" href="css/simpletextrotator.min.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style-responsive.css">
+<link rel="stylesheet" href="css/animate.css">
+<link rel="stylesheet" href="css/animations.css">
+<link rel="stylesheet" href="css/vertical-rhythm.css">
+<link rel="stylesheet" href="css/owl.carousel.css">
+<link rel="stylesheet" href="css/magnific-popup.css">
+<link rel="stylesheet" href="css/YTPlayer.css">
+<link rel="stylesheet" href="css/simpletextrotator.css">
 
 
 <!-- Color Schemes :: Uncomment one for apply :: -->

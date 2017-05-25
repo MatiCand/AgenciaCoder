@@ -1,4 +1,10 @@
 /*------------------------------------------------------------------
+Theme Name: UNICORE - Responsive Bootstrap Landing Page
+Version: 2.0
+Author:
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 
 	1. GLOBAL STYLES
@@ -224,11 +230,11 @@ ul, ol, li {
 
 .navbar-lg .navbar-brand {
 	padding: 40px 0 0;
-	font-size: 24px;
+	font-size: 28px;
 	font-weight: 700;
 	text-transform: uppercase;
 	color: #fff;
-	/*letter-spacing: 1px;*/
+	letter-spacing: 5px;
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
@@ -393,7 +399,7 @@ ul, ol, li {
 /* 4.1. Intro / 1 */
 
 .intro1 {
-	background: #111 url(../images/bg/13.jpg) no-repeat center;
+	background: #111 url(../images/bg/1.jpg) no-repeat center;
 	background-size: cover;
 	padding: 180px 0 150px;
 }
@@ -1509,7 +1515,7 @@ ul, ol, li {
 	text-transform: uppercase;
 	padding: 11px 28px;
 	border: none;
-	border-radius: 6px;
+	border-radius: 30px;
 	font-family: Montserrat;
 }
 
@@ -1574,7 +1580,6 @@ ul, ol, li {
 	letter-spacing: 0.025em;
 	color: #333333;
 	border: 2px solid #333333;
-	border-radius: 6px;
 	text-align: center;
 	text-transform: uppercase;
 	height: 50px;
@@ -1719,7 +1724,7 @@ ul, ol, li {
 /* 6. INFO STYLES */
 
 .info-content {
-	padding: 30px 0 0 0;
+	padding: 70px 0;
 }
 
 .info-content h3 {
@@ -1760,7 +1765,7 @@ ul, ol, li {
 	background: #212121 url(../images/bg/255.jpg) no-repeat center;
 	background-size: cover;
 	margin-top: -70px;
-	padding: 80px 0;
+	padding: 160px 0;
 }
 
 .testimonials p {

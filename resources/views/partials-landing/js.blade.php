@@ -9,4 +9,4 @@
 <script src="landing/js/main.js"></script>
 <script src="landing/js/vendors/mc/jquery.ketchup.all.min.js"></script>
 <script src="landing/js/vendors/mc/main.js"></script>
-<script src="js/vendors/contact.js"></script>
+<script src="landing/js/vendors/contact.js"></script>

@@ -1,5 +1,5 @@
 <!-- CONTACT FORM -->
-<div id="contact-form"><br>
+<div id="contacto"><br>
   <div class="section-head text-center col-md-8 col-md-offset-2 space50">
     <h1 class="form-title">Contáctenos</h1>
   </div>

@@ -16,7 +16,7 @@
       <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
         <ul class="nav navbar-nav navbar-right navbar-web">
           <li>
-            <a href="#contact-form"><span class="PedirPresupuesto">PEDIR PRESUPUESTO</span></a>
+            <a href="#contacto"><span class="PedirPresupuesto">PEDIR PRESUPUESTO</span></a>
           </li>
         </ul>
       </div>
