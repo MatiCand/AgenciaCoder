@@ -1,5 +1,5 @@
 
-<meta name="description" content=" Agencia de Marketing Digital">
+<meta name="description" content="Agencia de Marketing Digital">
 <meta name="keywords" content="Agencia, Marketing Digital, seo, sem, redes sociales, adwords, analytics, branding, diseño web, email marketing">
 <meta charset="utf-8">
 <meta name="author" content="Agencia Coder">
@@ -11,34 +11,20 @@
 <link rel="apple-touch-icon" sizes="72x72" href="images/favicon.png">
 <link rel="apple-touch-icon" sizes="114x114" href="images/favicon.png">
 <!-- CSS -->
-<link rel="stylesheet" href="css/estilos.css">
-<link rel="stylesheet" href="css/bootstrap.min.css">
-<link rel="stylesheet" href="css/style.css">
-<link rel="stylesheet" href="css/style-responsive.css">
-<link rel="stylesheet" href="css/animate.css">
-<link rel="stylesheet" href="css/animations.css">
-<link rel="stylesheet" href="css/vertical-rhythm.css">
-<link rel="stylesheet" href="css/owl.carousel.css">
-<link rel="stylesheet" href="css/magnific-popup.css">
-<link rel="stylesheet" href="css/YTPlayer.css">
-<link rel="stylesheet" href="css/simpletextrotator.css">
+<link rel="stylesheet" href="landing/css/estilos.css">
+<link rel="stylesheet" href="landing/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="landing/css/icons/fontawesome/css/style.css">
+<link rel="stylesheet" href="landing/css/icons/style.css">
+<link rel="stylesheet" href="landing/css/icons/icon2/style.css">
+<link rel="stylesheet" href="landing/js/vendors/swipebox/css/swipebox.css">
+
+<link rel="stylesheet" href="landing/js/vendors/slick/slick.css">
+<link rel="stylesheet" href="landing/css/style.css">
+
+<link rel="stylesheet" href="landing/css/skin/hot-pink.css">
 
 
-<!-- Color Schemes :: Uncomment one for apply :: -->
- <link rel="stylesheet" href="css/colors/orange.css">
-<!-- <link rel="stylesheet" href="css/colors/yellow.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/green.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/cyan.css"> -->
-{{-- <link rel="stylesheet" href="css/colors/azure.css"> --}}
-<!-- <link rel="stylesheet" href="css/colors/blue.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/blue-extra.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/purple.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/purple-extra.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/brown.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/brown-extra.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/red-extra.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/pink.css"> -->
-<!-- <link rel="stylesheet" href="css/colors/black.css"> -->
 
 <!-- Google Analytics -->
 <script>
@@ -73,7 +59,4 @@ src="https://www.facebook.com/tr?id=1704202639872471&ev=PageView&noscript=1"
 <!-- DO NOT MODIFY -->
 <!-- End Facebook Pixel Code -->
 
-
-<!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3074185.js"></script>
-<!-- End of HubSpot Embed Code -->
+ 

@@ -51,7 +51,7 @@
                         <div class="service-descr">
                             Sabemos como hacer un diseño web atractivo, fácil de usar e intuitivo para sus clientes, que se adapte a los dispositivos móviles Y que genere buenos resultados.
                             <div class="service-button mt-40 mt-md-20 local-scroll">
-                                <a href="#contact" class="btn btn-mod btn-small btn-circle">Saber más</a>
+                                <a href="{{'paginaweb'}}" class="btn btn-mod btn-small btn-circle">Saber más</a>
                             </div>
                         </div>
                     </div>

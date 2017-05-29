@@ -21,7 +21,7 @@
 
                     <!-- Logo Item -->
                     <div class="logo-item">
-                        <img src="images/clients-logos/client-3.svg" width="100" height="60" alt="" />
+                        <img src="images/clients-logos/client-3.png" width="100" height="60" alt="" />
                     </div>
                     <!-- End Logo Item -->
 
